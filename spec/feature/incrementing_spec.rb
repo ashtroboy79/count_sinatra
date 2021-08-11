@@ -12,3 +12,4 @@ feature "increment the count" do
     expect(page).to have_content 1
   end
 end
+

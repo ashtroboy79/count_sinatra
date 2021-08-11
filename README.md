@@ -21,3 +21,4 @@ This is a counter web app built in Ruby using Sinatra and Capybara.
 * Can you add a "Decrement" button which decreases the count by 1 each time it is pressed?
 * Can you update the app to display the time that the count was last updated?
 * Can you add a "Reset" button which will put the count back to zero?
+

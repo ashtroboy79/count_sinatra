@@ -16,3 +16,4 @@ describe Counter do
     end
   end
 end
+

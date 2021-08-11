@@ -10,3 +10,4 @@ feature "serve web app" do
     expect(page).to have_content 0
   end
 end
+
