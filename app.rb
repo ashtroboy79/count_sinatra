@@ -8,6 +8,7 @@ class CounterApp < Sinatra::Base
   end
 
   get '/' do
+    @counter.update_time
     erb :index
   end
 
